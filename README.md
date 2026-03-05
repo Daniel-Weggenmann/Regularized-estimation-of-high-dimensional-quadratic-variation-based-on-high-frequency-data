@@ -10,5 +10,6 @@ The code used in Chapter 6:
 
 ## Reproducibility
 
-All computational steps required to reproduce the results are documented within the notebooks.  
+The computational steps required to reproduce the results are documented within the notebooks.  
 Necessary packages are listed there.
+Only the original data used in the empirical application are not available for publication.
