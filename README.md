@@ -4,9 +4,9 @@ The materials provided here allow reproduction of the analyses and figures repor
 
 ## Contents
 The code used in Chapter 6:
-- Jupyter notebooks for the case of constant  drift and volatility (Section 7.2)
-- Jupyter notebook for the case of a more sophisticated three-factor model (Section 7.3)
-- (Optional) Jupyter notebook for an empirical example using real-world log-prices (Section 7.4)
+- Jupyter notebooks for the case of constant  drift and volatility (Section 6.2)
+- Jupyter notebook for the case of a more sophisticated three-factor model (Section 6.3)
+- Jupyter notebook for an empirical application using real-world log-prices (Section 6.4)
 
 ## Reproducibility
 
